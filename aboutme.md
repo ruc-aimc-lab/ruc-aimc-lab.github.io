@@ -1,6 +1,7 @@
 ---
 layout: page
-title: AI & Media Computing Lab at RUC
+title: About the Lab
+subtitle: AI & Media Computing Lab at Renmin University of China
 ---
 
 人工智能与媒体计算实验室 (AIMC Lab) 以教育部数据工程与知识工程重点实验室（中国人民大学）和中国人民大学信息学院为依托，致力于数字音频、图像、视频、文本等多媒体数据的分析、理解、管理和搜索等研究。我们结合最前沿的人工智能技术，推动跨媒体计算理论、方法和应用的创新。实验室注重学生科研素质的培养和实践能力的积累。实验室的特色研究方向包括
