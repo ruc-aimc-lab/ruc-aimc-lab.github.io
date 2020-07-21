@@ -13,10 +13,11 @@ author: AIMC
 
 navbar-links:
   About the Lab: "aboutme"
+  People: "people"
+  Publications: "publications"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Code: "code"
+    - Data: "data"
 
 # --- Logo --- #
 
