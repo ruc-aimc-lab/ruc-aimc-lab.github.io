@@ -1,16 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About the Lab
+subtitle: AI & Media Computing
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+人工智能与媒体计算实验室 (AIMC Lab) 以教育部数据工程与知识工程重点实验室（中国人民大学）和中国人民大学信息学院为依托，致力于数字音频、图像、视频、文本等多媒体数据的分析、理解、管理和搜索等研究。我们结合最前沿的人工智能技术，推动跨媒体计算理论、方法和应用的创新。实验室注重学生科研素质的培养和实践能力的积累。实验室的特色研究方向包括
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- 跨媒体感知、学习和推理
+- 群智能优化算法
+- 零示例视频检索
+- 多模态医学影像分析
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
