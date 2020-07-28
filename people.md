@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-subtitle:
+subtitle: Lab members
 ---
 
 ## Staff 
@@ -22,6 +22,7 @@ subtitle:
 + 贾政雄 (2018)
 + 刘致远 (2018)
 + 钱锐 (2018)
++ 王杰 (2018)
 + 何明智 (2019)
 + 季家琦 (2019)
 + 王渭森 (2019)
