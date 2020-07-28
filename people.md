@@ -1,7 +1,7 @@
 ---
 layout: page
-title:
-subtitle: Lab members
+title: Lab members
+subtitle: 
 ---
 
 ## Staff 
