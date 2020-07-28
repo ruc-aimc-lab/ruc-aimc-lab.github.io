@@ -1,23 +1,19 @@
 ---
-layout: page
-title: 实验室成员 / Lab members
 ---
 
-## Staff / 教师
+## Staff 
 
 + [李锡荣](lixirong.net) 副教授（博导）
 + 杨刚 副教授（硕导）
 + [许洁萍](http://info.ruc.edu.cn/academic_professor.php?teacher_id=34) 副教授（硕导）
 
-## Students / 在读学生
-
-### PhD students / 博士生
+## PhD students 
 
 + 陈坳珠 (2019)
 + 胡帆 (2020)
 + 林海斓 (2021)
 
-### Master students / 硕士生
+## Master students 
 
 + 丁飞 (2018)
 + 贾政雄 (2018)
