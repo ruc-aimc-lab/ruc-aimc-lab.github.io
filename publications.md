@@ -27,55 +27,53 @@ subtitle: Journals, conferences and technical reports.
 
 
 ## Conferences
-### 2020
 * Xirong Li, Wencui Wan, Yang Zhou, Jianchun Zhao, Qijie Wei, Junbo Rong, Pengyi Zhou, Limin Xu, Lijuan Lang, Yuying Liu, Chengzhi Niu, Dayong Ding, Xuemin Jin.  
-[**Deep Multiple Instance Learning with Spatial Attention for ROP Case Classification, Instance Selection and Abnormality Localization**](http://lixirong.net/pub/icpr2020-rop.pdf). International Conference on Pattern Recognition (ICPR), 2020.  
-*Qijie Wei, Xirong Li, Weihong Yu, xiao Zhang, Yongpeng Zhang, Bojie Hu, Bin Mo, Di Gong, Ning Chen, Dayong Ding, Youxin Chen.  
+[**Deep Multiple Instance Learning with Spatial Attention for ROP Case Classification, Instance Selection and Abnormality Localization**](http://lixirong.net/pub/icpr2020-rop.pdf). ICPR, 2020.  
+* Qijie Wei, Xirong Li, Weihong Yu, xiao Zhang, Yongpeng Zhang, Bojie Hu, Bin Mo, Di Gong, Ning Chen, Dayong Ding, Youxin Chen.  
 [**Learn to Segment Retinal Lesions and Beyond**](http://lixirong.net/pub/icpr2020-lesion.pdf). 
-International Conference on Pattern Recognition (ICPR), 2020.  
+ICPR, 2020.  
 * Zhengxiong Jia, Xirong Li.  
-[**iCap: Interactive Image Captioning with Predictive Text**](http://lixirong.net/pub/icmr2020-icap.pdf). ACM International Conference on Multimedia Retrieval (ICMR), 2020.
+[**iCap: Interactive Image Captioning with Predictive Text**](http://lixirong.net/pub/icmr2020-icap.pdf). ICMR, 2020.
 * Fei Ding, Gang Yang, Jun Wu, Dayong Ding, Jie Xv, Gangwei Cheng, Xirong Li.  
-[**High-order Attention Networks for Medical Image Segmentation**](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_25). International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2020.  
+[**High-order Attention Networks for Medical Image Segmentation**](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_25). MICCAI, 2020.  
 * Fei Ding, Gang Yang, Dayong Ding, Gangwei Cheng.  
- [**Retinal Nerve Fiber Layer Defect Detection With Position Guidance**](https://link.springer.com/chapter/10.1007%2F978-3-030-59722-1_72).International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2020.   
+ [**Retinal Nerve Fiber Layer Defect Detection With Position Guidance**](https://link.springer.com/chapter/10.1007%2F978-3-030-59722-1_72). MICCAI, 2020.   
 * Jakub Lokoč, Tomáš Souček, Patrik Veselý, František Mejzlík, Jiaqi Ji, Chaoxi Xu, Xirong Li.  
-[**A W2VV++ Case Study with Automated and Interactive Text-to-Video Retrieval**](https://dl.acm.org/doi/10.1145/3394171.3414002).  ACM Multimedia, 2020. 
-### 2019
+[**A W2VV++ Case Study with Automated and Interactive Text-to-Video Retrieval**](https://dl.acm.org/doi/10.1145/3394171.3414002).  ACMMM, 2020. 
+
 * Chaoxi Xu, Xiangjia Zhu, Wenwen He, Yi Lu, Xixi He, Zongjiang Shang, Jun Wu, Keke Zhang, Yinglei Zhang, Xianfang Rong, Zhennan Zhao, Lei Cai, Dayong Ding, Xirong Li.  
-[**Fully Deep Learning for Slit-lamp Photo based Nuclear Cataract Grading**](http://lixirong.net/pub/miccai2019-cataract.pdf). International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2019.
+[**Fully Deep Learning for Slit-lamp Photo based Nuclear Cataract Grading**](http://lixirong.net/pub/miccai2019-cataract.pdf). MICCAI, 2019.
 * Weisen Wang, Zhiyan Xu, Weihong Yu, Jianchun Zhao, Jingyuan Yang, Feng He, Zhikun Yang, Di Chen, Dayong Ding, Youxin Chen, Xirong Li.     
-[**Two-Stream CNN with Loose Pair Training for Multi-modal AMD Categorization**](https://link.springer.com/chapter/10.1007%2F978-3-030-32239-7_18). International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2019.  
+[**Two-Stream CNN with Loose Pair Training for Multi-modal AMD Categorization**](https://link.springer.com/chapter/10.1007%2F978-3-030-32239-7_18). MICCAI, 2019.  
 * Zhuoya Yang, Xirong Li, Xixi He, Dayong Ding, Yanting Wang, Fangfang Dai, Xuemin Jin.  
-[**Joint Localization of Optic Disc and Fovea in Ultra-Widefield Fundus Images**](https://dx.doi.org/10.1007/978-3-030-32692-0_52)
- International Workshop on Machine Learning in Medical Imaging (MLMI), 2019, (in conjunction with MICCAI 2019).  
+[**Joint Localization of Optic Disc and Fovea in Ultra-Widefield Fundus Images**](https://dx.doi.org/10.1007/978-3-030-32692-0_52). MLMI, 2019, (in conjunction with MICCAI 2019).  
 * Xin Lai, Xirong Li, Rui Qian, Dayong Ding, Jun Wu, Jieping Xu.    
 [**Four Models for Automatic Recognition of Left and Right Eye in Fundus Images**](http://lixirong.net/pub/mmm2019-left-right-eyes.pdf).
-International Conference on MultiMedia Modeling (MMM), 2019.  
+MMM, 2019.  
 * Xirong Li, Chaoxi Xu, Gang Yang, Zhineng Chen, and Jianfeng Dong.  
 [**W2VV++: Fully Deep Learning for Ad-hoc Video Search**](http://lixirong.net/pub/mm2019-w2vvpp.pdf). ACM Multimedia, 2019.
 * Jianfeng Dong, Xirong Li, Chaoxi Xu, Shouling Ji, Yuan He, Gang Yang, and Xun Wang.  
-[**Dual Encoding for Zero-Example Video Retrieval**](http://lixirong.net/pub/cvpr2019-dense-encoding.pdf). IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019.
+[**Dual Encoding for Zero-Example Video Retrieval**](http://lixirong.net/pub/cvpr2019-dense-encoding.pdf). CVPR, 2019.
 * Gang Yang#, Lei Zhang, Jieping Xu.  
-[**A Generative Face Completion Method Based on Associative Memory**](https://link.springer.com/chapter/10.1007/978-3-030-36708-4_38). International Conference on Neural Information (ICONIP), 2019. 
+[**A Generative Face Completion Method Based on Associative Memory**](https://link.springer.com/chapter/10.1007/978-3-030-36708-4_38). ICONIP, 2019. 
 * Gang Yang, Jieping Xu .   
-[**Zero-Shot Transfer Learning Based on Visual and Textual Resemblance**](https://link.springer.com/chapter/10.1007/978-3-030-36718-3_30). International Conference on Neural Information (ICONIP), 2019.   
+[**Zero-Shot Transfer Learning Based on Visual and Textual Resemblance**](https://link.springer.com/chapter/10.1007/978-3-030-36718-3_30). ICONIP, 2019.   
 * Gang Yang,  Daopeng Wang, Jieping Xu.  
-[**A Hybrid Evolutionary Algorithm with Taboo and Competition Strategies for Minimum Vertex Cover Problem**](https://link.springer.com/chapter/10.1007/978-3-030-36808-1_79). International Conference on Neural Information (ICONIP), 2019.  
-### 2018
+[**A Hybrid Evolutionary Algorithm with Taboo and Competition Strategies for Minimum Vertex Cover Problem**](https://link.springer.com/chapter/10.1007/978-3-030-36808-1_79). ICONIP, 2019.  
+
 * Gang Yang, Jinlu Liu, Jieping Xu, and Xirong Li.  
-**Dissimilarity Representation Learning for Generalized Zero-Shot Recognition**. ACM Multimedia, 2018.
+**Dissimilarity Representation Learning for Generalized Zero-Shot Recognition**. ACMMM, 2018.
 * Qijie Wei, Xirong Li, Hao Wang, Dayong Ding, Weihong Yu, Youxin Chen.  
-[**Laser Scar Detection in Fundus Images using Convolutional Neural Networks**](http://lixirong.net/pub/accv2018-laser-scar-detection.pdf). Asian Conference on Computer Vision (ACCV), 2018.  
+[**Laser Scar Detection in Fundus Images using Convolutional Neural Networks**](http://lixirong.net/pub/accv2018-laser-scar-detection.pdf). ACCV, 2018.  
 * Jianfeng Dong, Xirong Li, Chaoxi Xu, Gang Yang, Xun Wang.  
-[**Feature Re-Learning with Data Augmentation for Content-based Video Recommendation**](http://lixirong.net/pub/mm2018-cbvr.pdf). ACM Multimedia, 2018, (Grand challenge paper). 
+[**Feature Re-Learning with Data Augmentation for Content-based Video Recommendation**](http://lixirong.net/pub/mm2018-cbvr.pdf). ACMMM, 2018, (Grand challenge paper). 
 * Bin Liang, Hongcheng Li, Miaoqiang Su, Pan Bian, Xirong Li, Wenchang Shi.   
 [**Deep Text Classification Can be Fooled**](http://lixirong.net/pub/ijcai2018-text-fool.pdf).
-International Joint Conference on Artificial Intelligence(IJCAI), 2018.
+IJCAI, 2018.
 * Gang Yang, Jinlu Liu, Xirong Li.  
-[**Imagination Based Sample Construction for Zero-Shot Learning**](http://lixirong.net/pub/sigir2018-zsl.pdf). Special Interest Group on Information Retrieval(SIGIR), 2018.
+[**Imagination Based Sample Construction for Zero-Shot Learning**](http://lixirong.net/pub/sigir2018-zsl.pdf). SIGIR, 2018.
 * Jinlu Liu, Xirong Li, Gang Yang.    
-[**Cross-class Sample Synthesis for Zero-shot Learning**](https://dblp.org/rec/conf/bmvc/LiuLY18.html). British Machine Vision Conference(BMVC), 2018.
+[**Cross-class Sample Synthesis for Zero-shot Learning**](https://dblp.org/rec/conf/bmvc/LiuLY18.html). BMVC, 2018.
 
 
 ## Technical reports   
