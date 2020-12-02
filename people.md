@@ -7,7 +7,7 @@ subtitle:
 ## Staff 
 
 + [李锡荣](http://lixirong.net/) 副教授（博导）
-+ 杨刚 副教授（硕导）
++ [杨刚](http://info.ruc.edu.cn/academic_professor.php?teacher_id=54) 副教授（硕导）
 + [许洁萍](http://info.ruc.edu.cn/academic_professor.php?teacher_id=34) 副教授（硕导）
 
 ## PhD students 

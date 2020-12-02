@@ -39,8 +39,7 @@ ICPR, 2020.
 * Fei Ding, Gang Yang, Dayong Ding, Gangwei Cheng.  
  [**Retinal Nerve Fiber Layer Defect Detection With Position Guidance**](https://link.springer.com/chapter/10.1007%2F978-3-030-59722-1_72). MICCAI, 2020.   
 * Jakub Lokoč, Tomáš Souček, Patrik Veselý, František Mejzlík, Jiaqi Ji, Chaoxi Xu, Xirong Li.  
-[**A W2VV++ Case Study with Automated and Interactive Text-to-Video Retrieval**](https://dl.acm.org/doi/10.1145/3394171.3414002).  ACMMM, 2020. 
-
+[**A W2VV++ Case Study with Automated and Interactive Text-to-Video Retrieval**](https://dl.acm.org/doi/10.1145/3394171.3414002).  ACMMM, 2020.   
 * Chaoxi Xu, Xiangjia Zhu, Wenwen He, Yi Lu, Xixi He, Zongjiang Shang, Jun Wu, Keke Zhang, Yinglei Zhang, Xianfang Rong, Zhennan Zhao, Lei Cai, Dayong Ding, Xirong Li.  
 [**Fully Deep Learning for Slit-lamp Photo based Nuclear Cataract Grading**](http://lixirong.net/pub/miccai2019-cataract.pdf). MICCAI, 2019.
 * Weisen Wang, Zhiyan Xu, Weihong Yu, Jianchun Zhao, Jingyuan Yang, Feng He, Zhikun Yang, Di Chen, Dayong Ding, Youxin Chen, Xirong Li.     
@@ -56,11 +55,10 @@ MMM, 2019.
 [**Dual Encoding for Zero-Example Video Retrieval**](http://lixirong.net/pub/cvpr2019-dense-encoding.pdf). CVPR, 2019.
 * Gang Yang#, Lei Zhang, Jieping Xu.  
 [**A Generative Face Completion Method Based on Associative Memory**](https://link.springer.com/chapter/10.1007/978-3-030-36708-4_38). ICONIP, 2019. 
-* Gang Yang, Jieping Xu .   
+* Gang Yang, Jieping Xu.  
 [**Zero-Shot Transfer Learning Based on Visual and Textual Resemblance**](https://link.springer.com/chapter/10.1007/978-3-030-36718-3_30). ICONIP, 2019.   
 * Gang Yang,  Daopeng Wang, Jieping Xu.  
 [**A Hybrid Evolutionary Algorithm with Taboo and Competition Strategies for Minimum Vertex Cover Problem**](https://link.springer.com/chapter/10.1007/978-3-030-36808-1_79). ICONIP, 2019.  
-
 * Gang Yang, Jinlu Liu, Jieping Xu, and Xirong Li.  
 **Dissimilarity Representation Learning for Generalized Zero-Shot Recognition**. ACMMM, 2018.
 * Qijie Wei, Xirong Li, Hao Wang, Dayong Ding, Weihong Yu, Youxin Chen.  
@@ -71,10 +69,9 @@ MMM, 2019.
 [**Deep Text Classification Can be Fooled**](http://lixirong.net/pub/ijcai2018-text-fool.pdf).
 IJCAI, 2018.
 * Gang Yang, Jinlu Liu, Xirong Li.  
-[**Imagination Based Sample Construction for Zero-Shot Learning**](http://lixirong.net/pub/sigir2018-zsl.pdf). SIGIR, 2018.
-* Jinlu Liu, Xirong Li, Gang Yang.    
+[**Imagination Based Sample Construction for Zero-Shot Learning**](http://lixirong.net/pub/sigir2018-zsl.pdf). SIGIR, 2018.  
+* Jinlu Liu, Xirong Li, Gang Yang.  
 [**Cross-class Sample Synthesis for Zero-shot Learning**](https://dblp.org/rec/conf/bmvc/LiuLY18.html). BMVC, 2018.
-
 
 ## Technical reports   
 * Xirong Li, Fangming Zhou, Aozhu Chen.  
