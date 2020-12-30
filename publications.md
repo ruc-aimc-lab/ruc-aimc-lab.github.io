@@ -5,6 +5,8 @@ subtitle: Journals, conferences and technical reports.
 ---
 
 ## Journals
+* Xirong Li, Fangming Zhou, Chaoxi Xu, Jiaqi Ji, Gang Yang.  
+[**SEA: Sentence Encoder Assembly for Video Retrieval by Textual Queries. IEEE Transactions on Multimedia**](https://arxiv.org/abs/2011.12091) IEEE Transactions on Multimedia (TMM), 2021.  
 * Gang Yang, Fei Ding.   
 [**Associative memory optimized method on deep neural networks for image classification**]( https://www.sciencedirect.com/science/article/pii/S0020025520304175). Information Sciences, 533:108-119, 2020.
 * Yutong Liu, Jingyuan Yang, Yang Zhou, Weisen Wang, Jianchun Zhao, Weihong Yu, Dingding Zhang, Dayong Ding, Xirong Li, Youxin Chen.  
@@ -26,7 +28,9 @@ subtitle: Journals, conferences and technical reports.
 [**Cross-Media Similarity Evaluation for Web Image Retrieval in the Wild**](https://dx.doi.org/10.1109/TMM.2018.2796248). IEEE Transactions on Multimedia (TMM), 20(12):2371-2384, 2018.
 
 
-## Conferences
+## Conferences 
+* Aozhu Chen, Xinyi Huang, Hailan Lin, Xirong Li.  
+[**Towards Annotation-Free Evaluation of Cross-Lingual Image Captioning**](https://arxiv.org/abs/2012.04925). Accepted by MM Asia, 2020.  
 * Xirong Li, Wencui Wan, Yang Zhou, Jianchun Zhao, Qijie Wei, Junbo Rong, Pengyi Zhou, Limin Xu, Lijuan Lang, Yuying Liu, Chengzhi Niu, Dayong Ding, Xuemin Jin.  
 [**Deep Multiple Instance Learning with Spatial Attention for ROP Case Classification, Instance Selection and Abnormality Localization**](http://lixirong.net/pub/icpr2020-rop.pdf). ICPR, 2020.  
 * Qijie Wei, Xirong Li, Weihong Yu, xiao Zhang, Yongpeng Zhang, Bojie Hu, Bin Mo, Di Gong, Ning Chen, Dayong Ding, Youxin Chen.  
