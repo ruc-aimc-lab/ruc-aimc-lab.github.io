@@ -6,7 +6,7 @@ subtitle: Journals, conferences and technical reports.
 
 ## Journals
 * Xirong Li, Fangming Zhou, Chaoxi Xu, Jiaqi Ji, Gang Yang.  
-[**SEA: Sentence Encoder Assembly for Video Retrieval by Textual Queries. *](https://arxiv.org/abs/2011.12091) IEEE Transactions on Multimedia (TMM), 2021.  
+[**SEA: Sentence Encoder Assembly for Video Retrieval by Textual Queries**](https://arxiv.org/abs/2011.12091). IEEE Transactions on Multimedia (TMM), 2021.  
 * Gang Yang, Fei Ding.   
 [**Associative memory optimized method on deep neural networks for image classification**]( https://www.sciencedirect.com/science/article/pii/S0020025520304175). Information Sciences, 533:108-119, 2020.
 * Yutong Liu, Jingyuan Yang, Yang Zhou, Weisen Wang, Jianchun Zhao, Weihong Yu, Dingding Zhang, Dayong Ding, Xirong Li, Youxin Chen.  
