@@ -5,6 +5,12 @@ subtitle: Journals, conferences and technical reports.
 ---
 
 ## Journals
+* Jianfeng Dong, Xirong Li, Chaoxi Xu, Xun Yang, Gang Yang, Xun Wang, Meng Wang.  
+[**Dual Encoding for Video Retrieval by Text**](https://arxiv.org/pdf/2009.05381.pdf). IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021.   
+* Jie Wang, Kaibin Tian, Dayong Ding, Gang Yang, Xirong Li.  
+[**Unsupervised Domain Expansion for Visual Categorization**](https://arxiv.org/pdf/2104.00233.pdf). ACM Transactions on Multimedia Computing Communications and Applications (TOMM), 2021.  
+* Bing Li, Huan Chen, Bilei Zhang, Mingzhen Yuan, Xuemin Jin, Bo Lei, Jie Xu, Wei Gu, David Wong, Xixi He, Hao Wang, Dayong Ding, Xirong Li, Weihong Yu, Youxin Chen.  
+[**Development and evaluation of a deep learning model for the detection of multiple fundus diseases based on color fundus photography**](https://pubmed.ncbi.nlm.nih.gov/33785508/). British Journal of Ophthalmology (BJO), 2021.  
 * Xirong Li, Fangming Zhou, Chaoxi Xu, Jiaqi Ji, Gang Yang.  
 [**SEA: Sentence Encoder Assembly for Video Retrieval by Textual Queries**](https://arxiv.org/abs/2011.12091). IEEE Transactions on Multimedia (TMM), 2021.  
 * Gang Yang, Fei Ding.   
@@ -29,8 +35,10 @@ subtitle: Journals, conferences and technical reports.
 
 
 ## Conferences 
+* Xueyao Zhang, Juan Cao, Xirong Li, Qiang Sheng, Lei Zhong, Kai Shu.  
+[**Mining Dual Emotion for Fake News Detection**](https://arxiv.org/pdf/1903.01728.pdf). WWW, 2021.  
 * Aozhu Chen, Xinyi Huang, Hailan Lin, Xirong Li.  
-[**Towards Annotation-Free Evaluation of Cross-Lingual Image Captioning**](https://arxiv.org/abs/2012.04925). Accepted by MM Asia, 2020.  
+[**Towards Annotation-Free Evaluation of Cross-Lingual Image Captioning**](https://arxiv.org/abs/2012.04925). MM Asia, 2020.  
 * Xirong Li, Wencui Wan, Yang Zhou, Jianchun Zhao, Qijie Wei, Junbo Rong, Pengyi Zhou, Limin Xu, Lijuan Lang, Yuying Liu, Chengzhi Niu, Dayong Ding, Xuemin Jin.  
 [**Deep Multiple Instance Learning with Spatial Attention for ROP Case Classification, Instance Selection and Abnormality Localization**](http://lixirong.net/pub/icpr2020-rop.pdf). ICPR, 2020.  
 * Qijie Wei, Xirong Li, Weihong Yu, xiao Zhang, Yongpeng Zhang, Bojie Hu, Bin Mo, Di Gong, Ning Chen, Dayong Ding, Youxin Chen.  
