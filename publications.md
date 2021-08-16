@@ -6,7 +6,7 @@ subtitle: Journals, conferences and technical reports.
 
 ## Journals
 * Jianfeng Dong, Xun Wang, Leimin Zhang, Chaoxi Xu, Gang Yang, Xirong Li.  
-[**Feature Re-Learning with Data Augmentation for Video Relevance Prediction**](https://ieeexplore.ieee.org/document/8869872/). In: IEEE Transactions on Knowledge and Data Engineering (TKDE), 2021.  
+[**Feature Re-Learning with Data Augmentation for Video Relevance Prediction**](https://ieeexplore.ieee.org/document/8869872/). IEEE Transactions on Knowledge and Data Engineering (TKDE), 2021.  
 * Jianfeng Dong, Xirong Li, Chaoxi Xu, Xun Yang, Gang Yang, Xun Wang, Meng Wang.  
 [**Dual Encoding for Video Retrieval by Text**](https://arxiv.org/pdf/2009.05381.pdf). IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021.   
 * Jie Wang, Kaibin Tian, Dayong Ding, Gang Yang, Xirong Li.  
