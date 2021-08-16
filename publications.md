@@ -28,8 +28,8 @@ subtitle: Journals, conferences and technical reports.
 **A hierarchical gravitational search algorithm with an effective gravitational constant**. Swarm and Evolutionary Computation, 2019.
 * 杨刚,刘金露,李锡荣,许洁萍.  
 [**一种基于视觉特征组合构造的零样本学习方法(Visual Feature Combination Approach for Zero-Shot Learning)**](http://www.jos.org.cn/jos/ch/reader/view_abstract.aspx?file_no=18014&flag=1). 软件学报(Chinese Journal of Software), 29(S2):16-29, 2018.
-* Jianfeng Dong, Xun Wang, Leimin Zhang, Chaoxi Xu, Gang Yang, Xirong Li.  
-[**Feature Re-Learning with Data Augmentation for Video Relevance Prediction**](https://dx.doi.org/10.1109/TKDE.2019.2947442). IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019.
+<!-- * Jianfeng Dong, Xun Wang, Leimin Zhang, Chaoxi Xu, Gang Yang, Xirong Li.  
+[**Feature Re-Learning with Data Augmentation for Video Relevance Prediction**](https://dx.doi.org/10.1109/TKDE.2019.2947442). IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019. -->
 * Jianfeng Dong, Xirong Li, Cees G. M. Snoek.  
 [**Predicting Visual Features from Text for Image and Video Caption Retrieval**](http://lixirong.net/page/pub/tmm2018-w2vv.pdf). IEEE Transactions on Multimedia (TMM), 20(12):3377-3388, 2018.
 * Jianfeng Dong, Xirong Li, Duanqing Xu.  
