@@ -5,6 +5,10 @@ subtitle: Journals, conferences and technical reports.
 ---
 
 ## Journals
+* Rui Qian, Xin Lai, Xirong Li.  
+[**BADet: Boundary-Aware 3D Object Detection from Point Clouds**](https://arxiv.org/abs/2104.10330). Pattern Recognition, 2022.  
+* Jianfeng Dong, Yabing Wang, Xianke Chen, Xiaoye Qu, Xirong Li, Yuan He, Xun Wang.  
+[**Reading-strategy Inspired Visual Representation Learning for Text-to-Video Retrieval**](https://arxiv.org/abs/2201.09168). IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2022.  
 * Jianfeng Dong, Xun Wang, Leimin Zhang, Chaoxi Xu, Gang Yang, Xirong Li.  
 [**Feature Re-Learning with Data Augmentation for Video Relevance Prediction**](https://ieeexplore.ieee.org/document/8869872/). IEEE Transactions on Knowledge and Data Engineering (TKDE), 2021.  
 * Jianfeng Dong, Xirong Li, Chaoxi Xu, Xun Yang, Gang Yang, Xun Wang, Meng Wang.  
@@ -18,7 +22,7 @@ subtitle: Journals, conferences and technical reports.
 * Gang Yang, Fei Ding.   
 [**Associative memory optimized method on deep neural networks for image classification**]( https://www.sciencedirect.com/science/article/pii/S0020025520304175). Information Sciences, 533:108-119, 2020.
 * Yutong Liu, Jingyuan Yang, Yang Zhou, Weisen Wang, Jianchun Zhao, Weihong Yu, Dingding Zhang, Dayong Ding, Xirong Li, Youxin Chen.  
-[**Prediction of OCT Images of Short-term Response to Anti-VEGF Treatment for Neovascular Age-related Macular Degeneration using Generative Adversarial Network**](https://dx.doi.org/10.1136/bjophthalmol-2019-315338).  British Journal of Ophthalmology,104(12), 2020.
+[**Prediction of OCT Images of Short-term Response to Anti-VEGF Treatment for Neovascular Age-related Macular Degeneration using Generative Adversarial Network**](https://dx.doi.org/10.1136/bjophthalmol-2019-315338). British Journal of Ophthalmology,104(12), 2020.
 * Xirong Li, Chaoxi Xu, Xiaoxu Wang, Weiyu Lan, Zhengxiong Jia, Gang Yang, and Jieping Xu.  
 [**COCO-CN for Cross-Lingual Image Tagging, Captioning and Retrieval**](http://lixirong.net/pub/tmm2019-cococn.pdf). IEEE Transactions on Multimedia (TMM), 21(9):2347-2360, 2019.  
 * 蓝玮毓, 王晓旭, 杨刚, 李锡荣.  
