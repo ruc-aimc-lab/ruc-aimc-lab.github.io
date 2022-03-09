@@ -35,6 +35,10 @@ subtitle: Journals, conferences and technical reports.
 <!-- * Jianfeng Dong, Xun Wang, Leimin Zhang, Chaoxi Xu, Gang Yang, Xirong Li.  
 [**Feature Re-Learning with Data Augmentation for Video Relevance Prediction**](https://dx.doi.org/10.1109/TKDE.2019.2947442). IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019. -->
 ## Conferences 
+* Tianyun Yang, Ziyao Huang, Juan Cao, Lei Li, Xirong Li.  
+[**Deepfake Network Architecture Attribution**](https://aaai-2022.virtualchair.net/poster_aaai4380).AAAI, 2022.   
+* Guang Yang, Juan Cao, Qiang Sheng, Peng Qi, Xirong Li, Jintao Li.  
+[**DRAG: Dynamic Region-Aware GCN for Privacy-Leaking Image Detection**](https://aaai-2022.virtualchair.net/poster_aisi2085). AAAI, 2022.  
 * Xinru Chen, Chengbo Dong, Jiaqi Ji, Juan Cao, Xirong Li.  
 [**Image Manipulation Detection by Multi-View Multi-Scale Supervision**](https://arxiv.org/abs/2104.06832). ICCV, 2021.  
 * Xirong Li, Yang Zhou, Jie Wang, Hailan Lin, Jianchun Zhao, Dayong Ding, Weihong Yu, Youxin Chen.  
