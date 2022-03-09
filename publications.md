@@ -36,15 +36,15 @@ subtitle: Journals, conferences and technical reports.
 [**Feature Re-Learning with Data Augmentation for Video Relevance Prediction**](https://dx.doi.org/10.1109/TKDE.2019.2947442). IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019. -->
 ## Conferences 
 * Tianyun Yang, Ziyao Huang, Juan Cao, Lei Li, Xirong Li.  
-[**Deepfake Network Architecture Attribution**](https://aaai-2022.virtualchair.net/poster_aaai4380).AAAI, 2022.   
+[**Deepfake Network Architecture Attribution**](https://aaai-2022.virtualchair.net/poster_aaai4380). AAAI, 2022.   
 * Guang Yang, Juan Cao, Qiang Sheng, Peng Qi, Xirong Li, Jintao Li.  
 [**DRAG: Dynamic Region-Aware GCN for Privacy-Leaking Image Detection**](https://aaai-2022.virtualchair.net/poster_aisi2085). AAAI, 2022.  
 * Xinru Chen, Chengbo Dong, Jiaqi Ji, Juan Cao, Xirong Li.  
 [**Image Manipulation Detection by Multi-View Multi-Scale Supervision**](https://arxiv.org/abs/2104.06832). ICCV, 2021.  
 * Xirong Li, Yang Zhou, Jie Wang, Hailan Lin, Jianchun Zhao, Dayong Ding, Weihong Yu, Youxin Chen.  
-[**Multi-Modal Multi-Instance Learning for Retinal Disease Recognition**]().ACMMM, 2021.
+[**Multi-Modal Multi-Instance Learning for Retinal Disease Recognition**](). ACMMM, 2021.
 * Aozhu Chen, Fan Hu, Zihan Wang, Fangming Zhou, Xirong Li.  
-[**What Matters for Ad-hoc Video Search? A Large-scale Evaluation on TRECVID**]().  ViRal'21@ICCV 2021, 2021.  
+[**What Matters for Ad-hoc Video Search? A Large-scale Evaluation on TRECVID**](). ViRal'21@ICCV 2021, 2021.  
 * Peng Qi, Juan Cao, Xirong Li, Huan Liu, Qiang Sheng, Xiaoyue Mi, Qin He, Yongbiao Lv, Chenyang Guo, Yingchao Yu.  
 [**Improving Fake News Detection by Using an Entity-enhanced Framework to Fuse Diverse Multimodal Clues**](). ACMMM(Industrial Track), 2021.  
 * Chengbo Dong, Xinru Chen, Aozhu Chen, Fan Hu, Zihan Wang, Xirong Li.  
