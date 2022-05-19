@@ -112,8 +112,10 @@ IJCAI, 2018.
 [**Cross-class Sample Synthesis for Zero-shot Learning**](https://dblp.org/rec/conf/bmvc/LiuLY18.html). BMVC, 2018.
 
 ## Technical reports   
+* Xirong Li, Aozhu Chen, Fan Hu, Xinru Chen, Chengbo Dong, Gang Yang.  
+[**Renmin University of China at TRECVID 2021: Searching and Describing Video**](https://www.researchgate.net/publication/358526092_Renmin_University_of_China_at_TRECVID_2021_Searching_and_Describing_Video). TRECVID 2021 Workshop, 2021.  
 * Xirong Li, Fangming Zhou, Aozhu Chen.  
-**Renmin University of China at TRECVID 2020: Sentence Encoder Assembly for Ad-hoc Video Search**. TRECVID 2020 Workshop, 2020.  
+[**Renmin University of China at TRECVID 2020: Sentence Encoder Assembly for Ad-hoc Video Search**](https://www-nlpir.nist.gov/projects/tvpubs/tv20.papers/rucmm.pdf). TRECVID 2020 Workshop, 2020.  
 * Xirong Li, Jinde Ye, Chaoxi Xu, Shanjinwen Yun, Leimin Zhang, Xun Wang, Rui Qian, Jianfeng Dong.  
 [**Renmin University of China and Zhejiang Gongshang University at TRECVID 2019: Learn to Search and Describe Videos**](http://lixirong.net/pub/trecvid2019-rucmm.pdf). TRECVID 2019 Workshop, 2019.  
 * Xirong Li, Jianfeng Dong, Chaoxi Xu, Jing Cao, Xun Wang, Gang Yang.  
