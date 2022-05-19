@@ -43,7 +43,7 @@ subtitle: Journals, conferences and technical reports.
 <!-- * Jianfeng Dong, Xun Wang, Leimin Zhang, Chaoxi Xu, Gang Yang, Xirong Li.  
 [**Feature Re-Learning with Data Augmentation for Video Relevance Prediction**](https://dx.doi.org/10.1109/TKDE.2019.2947442). IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019. -->
 ## Conferences 
-* Yue Wu; Yang Zhou; Jianchun Zhao; Jingyuan Yang; Weihong Yu; Youxin Chen; Xirong Li.
+* Yue Wu; Yang Zhou; Jianchun Zhao; Jingyuan Yang; Weihong Yu; Youxin Chen; Xirong Li.  
 [**Lesion Localization in OCT by Semi-Supervised Object Detection Inproceedings**](https://arxiv.org/pdf/2204.11227.pdf).ICMR.  
 * Tianyun Yang, Ziyao Huang, Juan Cao, Lei Li, Xirong Li.  
 [**Deepfake Network Architecture Attribution**](https://aaai-2022.virtualchair.net/poster_aaai4380). AAAI, 2022.   
