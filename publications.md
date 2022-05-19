@@ -5,6 +5,10 @@ subtitle: Journals, conferences and technical reports.
 ---
 
 ## Journals
+* Rui Qian; Xin Lai; Xirong Li.  
+[**3D Object Detection for Autonomous Driving: A Survey**](https://arxiv.org/pdf/2106.10823.pdf?ref=https://githubhelp.com). Pattern Recognition (PR), 2022.  
+* Weisen Wang; Xirong Li; Zhiyan Xu; Weihong Yu; Jianchun Zhao; Dayong Ding; Youxin Chen.  
+[**Learning Two-Stream CNN for Multi-Modal Age-related Macular Degeneration Categorization**](https://arxiv.org/abs/2012.01879). IEEE Journal of Biomedical and Health Informatics (J-BHI), 2022.
 * Rui Qian, Xin Lai, Xirong Li.  
 [**BADet: Boundary-Aware 3D Object Detection from Point Clouds**](https://arxiv.org/abs/2104.10330). Pattern Recognition (PR), 2022.  
 * Jianfeng Dong, Yabing Wang, Xianke Chen, Xiaoye Qu, Xirong Li, Yuan He, Xun Wang.  
@@ -39,6 +43,8 @@ subtitle: Journals, conferences and technical reports.
 <!-- * Jianfeng Dong, Xun Wang, Leimin Zhang, Chaoxi Xu, Gang Yang, Xirong Li.  
 [**Feature Re-Learning with Data Augmentation for Video Relevance Prediction**](https://dx.doi.org/10.1109/TKDE.2019.2947442). IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019. -->
 ## Conferences 
+* Yue Wu; Yang Zhou; Jianchun Zhao; Jingyuan Yang; Weihong Yu; Youxin Chen; Xirong Li.
+[**Lesion Localization in OCT by Semi-Supervised Object Detection Inproceedings**](https://arxiv.org/pdf/2204.11227.pdf).ICMR.  
 * Tianyun Yang, Ziyao Huang, Juan Cao, Lei Li, Xirong Li.  
 [**Deepfake Network Architecture Attribution**](https://aaai-2022.virtualchair.net/poster_aaai4380). AAAI, 2022.   
 * Guang Yang, Juan Cao, Qiang Sheng, Peng Qi, Xirong Li, Jintao Li.  
