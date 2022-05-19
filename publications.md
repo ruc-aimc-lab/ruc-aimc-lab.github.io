@@ -44,7 +44,7 @@ subtitle: Journals, conferences and technical reports.
 [**Feature Re-Learning with Data Augmentation for Video Relevance Prediction**](https://dx.doi.org/10.1109/TKDE.2019.2947442). IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019. -->
 ## Conferences 
 * Yue Wu; Yang Zhou; Jianchun Zhao; Jingyuan Yang; Weihong Yu; Youxin Chen; Xirong Li.  
-[**Lesion Localization in OCT by Semi-Supervised Object Detection Inproceedings**](https://arxiv.org/pdf/2204.11227.pdf).ICMR.  
+[**Lesion Localization in OCT by Semi-Supervised Object Detection Inproceedings**](https://arxiv.org/pdf/2204.11227.pdf). ICMR, 2022.  
 * Tianyun Yang, Ziyao Huang, Juan Cao, Lei Li, Xirong Li.  
 [**Deepfake Network Architecture Attribution**](https://aaai-2022.virtualchair.net/poster_aaai4380). AAAI, 2022.   
 * Guang Yang, Juan Cao, Qiang Sheng, Peng Qi, Xirong Li, Jintao Li.  
@@ -58,7 +58,7 @@ subtitle: Journals, conferences and technical reports.
 * Peng Qi, Juan Cao, Xirong Li, Huan Liu, Qiang Sheng, Xiaoyue Mi, Qin He, Yongbiao Lv, Chenyang Guo, Yingchao Yu.  
 [**Improving Fake News Detection by Using an Entity-enhanced Framework to Fuse Diverse Multimodal Clues**](). ACMMM(Industrial Track), 2021.  
 * Chengbo Dong, Xinru Chen, Aozhu Chen, Fan Hu, Zihan Wang, Xirong Li.  
-[**Multi-Level Visual Representation with Semantic-Reinforced Learning for Video Captioning**](). ACMMM(Grand Challenge Track), 2021.  
+[**Multi-Level Visual Representation with Semantic-Reinforced Learning for Video Captioning**](https://dl.acm.org/doi/10.1145/3474085.3479217). ACMMM(Grand Challenge Track), 2021.  
 * Qiang Sheng, Juan Cao, Xueyao Zhang, Xirong Li, Lei Zhong.  
 [**Article Reranking by Memory-enhanced Key Sentence Matching for Detecting Previously Fact-checked Claims**](https://aclanthology.org/2021.acl-long.425.pdf). ACL-IJCNLP, 2021.  
 * Xueyao Zhang, Juan Cao, Xirong Li, Qiang Sheng, Lei Zhong, Kai Shu.  
