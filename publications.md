@@ -119,4 +119,4 @@ IJCAI, 2018.
 * Xirong Li, Jinde Ye, Chaoxi Xu, Shanjinwen Yun, Leimin Zhang, Xun Wang, Rui Qian, Jianfeng Dong.  
 [**Renmin University of China and Zhejiang Gongshang University at TRECVID 2019: Learn to Search and Describe Videos**](http://lixirong.net/pub/trecvid2019-rucmm.pdf). TRECVID 2019 Workshop, 2019.  
 * Xirong Li, Jianfeng Dong, Chaoxi Xu, Jing Cao, Xun Wang, Gang Yang.  
-[**Renmin University of China and Zhejiang Gongshang University at TRECVID 2018: Deep Cross-Modal Embeddings for Video-Text Retrieval**](http://lixirong.net/pub/trecvid2018-rucmm.pdf). TRECVID 2019 Workshop, 2018.  
+[**Renmin University of China and Zhejiang Gongshang University at TRECVID 2018: Deep Cross-Modal Embeddings for Video-Text Retrieval**](http://lixirong.net/pub/trecvid2018-rucmm.pdf). TRECVID 2018 Workshop, 2018.  
