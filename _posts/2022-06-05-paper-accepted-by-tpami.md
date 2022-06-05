@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PAMI paper on image manipulation detection
+title: Paper accepted by TPAMI
 subtitle: Media Forensics
 thumbnail-img: /assets/img/tpami.jpeg
 tags: [research, multimedia]
