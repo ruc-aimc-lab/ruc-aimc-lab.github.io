@@ -45,13 +45,13 @@ subtitle: Journals, conferences and technical reports.
 <!-- * Jianfeng Dong, Xun Wang, Leimin Zhang, Chaoxi Xu, Gang Yang, Xirong Li.  
 [**Feature Re-Learning with Data Augmentation for Video Relevance Prediction**](https://dx.doi.org/10.1109/TKDE.2019.2947442). IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019. -->
 ## Conferences 
-* Jiazhen Liu, Xirong Li, Qijie Wei, Jie Xu, Dayong Ding.  
-[**Semi-Supervised Keypoint Detector and Descriptor for Retinal Image Matching**](). ECCV, 2022. 
+* Jiazhen Liu, Xirong Li, Qijie Wei, Jie Xu, Dayong Ding.   
+[**Semi-Supervised Keypoint Detector and Descriptor for Retinal Image Matching**](). ECCV, 2022.   
 * Fan Hu, Aozhu Chen, Ziyue Wang, Fangming Zhou, Xirong Li.   
-[**Lightweight Attentional Feature Fusion: A New Baseline for Text-to-Video Retrieval**](https://arxiv.org/pdf/2112.01832.pdf). ECCV, 2022. 
-* Ziyue Wang, Aozhu Chen, Fan Hu, Xirong Li.   
-[**Learn to Understand Negation in Video Retrieval**](https://arxiv.org/pdf/2205.00132.pdf). ACMMM, 2022. 
-* Yue Wu, Yang Zhou, Jianchun Zhao, Jingyuan Yang, Weihong Yu, Youxin Chen, Xirong Li.  
+[**Lightweight Attentional Feature Fusion: A New Baseline for Text-to-Video Retrieval**](https://arxiv.org/pdf/2112.01832.pdf). ECCV, 2022.   
+* Ziyue Wang, Aozhu Chen, Fan Hu, Xirong Li.  
+[**Learn to Understand Negation in Video Retrieval**](https://arxiv.org/pdf/2205.00132.pdf). ACMMM, 2022.   
+* Yue Wu, Yang Zhou, Jianchun Zhao, Jingyuan Yang, Weihong Yu, Youxin Chen, Xirong Li.   
 [**Lesion Localization in OCT by Semi-Supervised Object Detection Inproceedings**](https://arxiv.org/pdf/2204.11227.pdf). ICMR, 2022.  
 * Tianyun Yang, Ziyao Huang, Juan Cao, Lei Li, Xirong Li.  
 [**Deepfake Network Architecture Attribution**](https://aaai-2022.virtualchair.net/poster_aaai4380). AAAI, 2022.   
