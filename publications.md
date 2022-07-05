@@ -51,6 +51,8 @@ subtitle: Journals, conferences and technical reports.
 [**Lightweight Attentional Feature Fusion: A New Baseline for Text-to-Video Retrieval**](https://arxiv.org/pdf/2112.01832.pdf). ECCV, 2022.   
 * Ziyue Wang, Aozhu Chen, Fan Hu, Xirong Li.  
 [**Learn to Understand Negation in Video Retrieval**](https://arxiv.org/pdf/2205.00132.pdf). ACMMM, 2022.   
+* Jianfeng Dong, Xiaoke Chen, Minsong Zhang, Xun Yang, Shujie Chen, Xirong Li, Xun Wang.   
+[**Partially Relevant Video Retrieval**](). ACMMM, 2022.   
 * Yue Wu, Yang Zhou, Jianchun Zhao, Jingyuan Yang, Weihong Yu, Youxin Chen, Xirong Li.   
 [**Lesion Localization in OCT by Semi-Supervised Object Detection Inproceedings**](https://arxiv.org/pdf/2204.11227.pdf). ICMR, 2022.  
 * Tianyun Yang, Ziyao Huang, Juan Cao, Lei Li, Xirong Li.  
