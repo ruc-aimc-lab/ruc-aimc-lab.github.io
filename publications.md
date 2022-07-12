@@ -64,7 +64,7 @@ subtitle: Journals, conferences and technical reports.
 * Xirong Li, Yang Zhou, Jie Wang, Hailan Lin, Jianchun Zhao, Dayong Ding, Weihong Yu, Youxin Chen.  
 [**Multi-Modal Multi-Instance Learning for Retinal Disease Recognition**](). ACMMM, 2021.
 * Aozhu Chen, Fan Hu, Zihan Wang, Fangming Zhou, Xirong Li.  
-[**What Matters for Ad-hoc Video Search? A Large-scale Evaluation on TRECVID**](). ViRal'21@ICCV 2021, 2021.  
+[**What Matters for Ad-hoc Video Search? A Large-scale Evaluation on TRECVID**](https://openaccess.thecvf.com/content/ICCV2021W/ViRaL/papers/Chen_What_Matters_for_Ad-Hoc_Video_Search_A_Large-Scale_Evaluation_on_ICCVW_2021_paper.pdf). ViRal'21@ICCV 2021, 2021.  
 * Peng Qi, Juan Cao, Xirong Li, Huan Liu, Qiang Sheng, Xiaoyue Mi, Qin He, Yongbiao Lv, Chenyang Guo, Yingchao Yu.  
 [**Improving Fake News Detection by Using an Entity-enhanced Framework to Fuse Diverse Multimodal Clues**](). ACMMM(Industrial Track), 2021.  
 * Chengbo Dong, Xinru Chen, Aozhu Chen, Fan Hu, Zihan Wang, Xirong Li.  
