@@ -16,9 +16,7 @@ navbar-links:
   People: "people"
   Research: "research"
   Publications: "publications"
-  Resources:
-    - Code: "code"
-    - Data: "data"
+  Resources: "resources"
 
 # --- Logo --- #
 
