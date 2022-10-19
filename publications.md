@@ -45,6 +45,8 @@ subtitle: Journals, conferences and technical reports.
 <!-- * Jianfeng Dong, Xun Wang, Leimin Zhang, Chaoxi Xu, Gang Yang, Xirong Li.  
 [**Feature Re-Learning with Data Augmentation for Video Relevance Prediction**](https://dx.doi.org/10.1109/TKDE.2019.2947442). IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019. -->
 ## Conferences 
+* Fan Hu, Yanlin Wang, Lun Du, Xirong Li, Hongyu Zhang, Shi Han, Dongmei Zhang.   
+[**Revisiting Code Search in a Two-Stage Paradigm**](https://arxiv.org/abs/2208.11274). WSDM, 2023.   
 * Jiazhen Liu, Xirong Li, Qijie Wei, Jie Xu, Dayong Ding.   
 [**Semi-Supervised Keypoint Detector and Descriptor for Retinal Image Matching**](). ECCV, 2022.   
 * Fan Hu, Aozhu Chen, Ziyue Wang, Fangming Zhou, Xirong Li.   
