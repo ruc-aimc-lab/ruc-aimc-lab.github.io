@@ -6,27 +6,27 @@ subtitle:
 
 ## Staff 
 
-+ [李锡荣](http://lixirong.net/) 教授（博导）
-+ [杨刚](http://info.ruc.edu.cn/academic_professor.php?teacher_id=54) 副教授（硕导）
-+ [许洁萍](http://info.ruc.edu.cn/academic_professor.php?teacher_id=34) 副教授（硕导）
++ [李锡荣](http://lixirong.net/) 教授、博导
++ [杨刚](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/fjs2/538a9f67dfd74d659c3b2370f8fbaf06.htm) 副教授、硕导
++ [许洁萍](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/fjs2/f0bdfde31a3e40659b97a7e6f886d23a.htm) 副教授、硕导
 
 ## PhD students 
 
-+ 陈坳珠 (2019)
++ [陈坳珠](https://jewelchen2019.github.io/) (2019)
 + [胡帆](https://github.com/fly-dragon211) (2020)
 + 林海斓 (2021)
 + 赵瑞祥 (2022)
-+ 魏奇杰 (2022)
++ [魏奇杰](https://www.researchgate.net/profile/Qijie-Wei) (2022)
 
 ## Master students 
 
 + 陈欣茹 (2020)
-+ 田凯彬 (2020)
++ [田凯彬](https://scholar.google.com/citations?user=p_HrOocAAAAJ&hl=zh-CN) (2020)
 + 武悦 (2020)
-+ [董程博](dong03.github.io) (2020)
++ [董程博](https://dong03.github.io/) (2020)
 + 王子寒 (2021)
 + 王子玥（2021)
-+ 刘家真 (2021)
++ [刘家真](https://www.researchgate.net/profile/Jiazhen-Liu-9) (2021)
 + 胡若涵 (2022)
 
 
