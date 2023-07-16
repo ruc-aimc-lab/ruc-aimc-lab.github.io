@@ -27,8 +27,10 @@ subtitle: Journals, conferences and technical reports.
 
 
 ## Conferences 
+* Jiazhen Liu, Xirong Li. **Geometrized Transformer for Self-Supervised Homography Estimation**. ICCV 2023
+* Zhihao Sun, Haoran Jiang, Danding Wang, Xirong Li, Juan Cao. **SAFL-Net: Semantic-Agnostic Feature Learning Network with Auxiliary Plugins for Image Manipulation Detection**. ICCV 2023
 * Fan Hu, Aozhu Chen, Xirong Li. **Towards Making a Trojan-horse Attack on Text-to-Image Retrieval**. ICASSP 2023 <img src="https://img.shields.io/github/stars/fly-dragon211/tth.svg?colorA=orange&colorB=orange&logo=github" alt="GitHub stars">
-* Fan Hu, Yanlin Wang, Lun Du, Xirong Li, Hongyu Zhang, Shi Han, Dongmei Zhang. [**Revisiting Code Search in a Two-Stage Paradigm**](https://arxiv.org/abs/2208.11274). WSDM, 2023
+* Fan Hu, Yanlin Wang, Lun Du, Xirong Li, Hongyu Zhang, Shi Han, Dongmei Zhang. [**Revisiting Code Search in a Two-Stage Paradigm**](https://arxiv.org/abs/2208.11274). WSDM 2023
 * Jiazhen Liu, Xirong Li, Qijie Wei, Jie Xu, Dayong Ding. [**Semi-Supervised Keypoint Detector and Descriptor for Retinal Image Matching**](https://github.com/ruc-aimc-lab/SuperRetina). ECCV 2022 <img src="https://img.shields.io/github/stars/ruc-aimc-lab/SuperRetina.svg?colorA=orange&colorB=orange&logo=github" alt="GitHub stars">
 * Fan Hu, Aozhu Chen, Ziyue Wang, Fangming Zhou, Xirong Li. [**Lightweight Attentional Feature Fusion: A New Baseline for Text-to-Video Retrieval**](https://github.com/ruc-aimc-lab/LAFF). ECCV 2022 <img src="https://img.shields.io/github/stars/ruc-aimc-lab/LAFF.svg?colorA=orange&colorB=orange&logo=github" alt="GitHub stars">  
 * Ziyue Wang, Aozhu Chen, Fan Hu, Xirong Li.  [**Learn to Understand Negation in Video Retrieval**](https://github.com/ruc-aimc-lab/nt2vr). ACMMM 2022 <img src="https://img.shields.io/github/stars/ruc-aimc-lab/nT2VR.svg?colorA=orange&colorB=orange&logo=github" alt="GitHub stars">   
