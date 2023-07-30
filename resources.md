@@ -23,7 +23,10 @@ subtitle: Open source, datasets, ...
 + ICPR2020 [Retinal-Lesions](https://github.com/WeiQijie/retinal-lesions) for retinal lesion segmentation and DR grading.
 + ACCV2008 [Fundus10K](https://github.com/li-xirong/fundus10k) for training and evaluating laser scar detection algorithms.
 
-### Cross-lingual multimedia tasks
 
-+ TV22 [V3C1-PC](https://github.com/ruc-aimc-lab/v3c1-pc), auto-generated video description dataset for pre-training text-video retrieval models.
+### Cross-lingual / multi-lingual multimedia tasks
++ ACMMM2023 [ChinaOpen](https://ruc-aimc-lab.github.io/ChinaOpen/), a new video dataset targeted at open-world multimodal learning, with raw data gathered from Bilibili.
 + TMM2019 [COCO-CN](https://github.com/li-xirong/coco-cn), a bilingual image description dataset enriching MS-COCO with manually written Chinese sentences and tags, used for multiple tasks including image tagging, captioning and retrieval, all in a cross-lingual setting.
+
+### Cross-modal video retrieval
++ TV22 [V3C1-PC](https://github.com/ruc-aimc-lab/v3c1-pc), auto-generated video description dataset for pre-training text-video retrieval models.
