@@ -29,6 +29,7 @@ subtitle: Journals, conferences and technical reports.
 ## Conferences 
 * Qijie Wei, Jingyuan Yang, Bo Wang, Jinrui Wang, Jianchun Zhao, Xinyu Zhao, Sheng Yang, Niranchana Manivannan, Youxin Chen, Dayong Ding, Jing Zhou, Xirong Li. **Supervised Domain Adaptation for Recognizing Retinal Diseases from Wide-Field Fundus Images**. BIBM 2023
 * Aozhu Chen, Ziyuan Wang, Chengbo Dong, Kaibin Tian, Ruixiang Zhao, Xun Liang, Zhanhui Kang, Xirong Li. [**ChinaOpen: A Dataset for Open-world Multimodal Learning**](https://ruc-aimc-lab.github.io/ChinaOpen/). ACMMM 2023
+* You Zhou, Gang Yang, Yang Zhou, Dayong Ding, Jianchun Zhao. Representation, Alignment, Fusion: A Generic Transformer-Based Framework for Multi-modal Glaucoma Recognition. MICCAI 2023
 * Jiazhen Liu, Xirong Li. [**Geometrized Transformer for Self-Supervised Homography Estimation**](https://github.com/ruc-aimc-lab/GeoFormer). ICCV 2023 <img src="https://img.shields.io/github/stars/ruc-aimc-lab/GeoFormer.svg?colorA=orange&colorB=orange&logo=github" alt="GitHub stars">
 * Zhihao Sun, Haoran Jiang, Danding Wang, Xirong Li, Juan Cao. **SAFL-Net: Semantic-Agnostic Feature Learning Network with Auxiliary Plugins for Image Manipulation Detection**. ICCV 2023
 * Fan Hu, Aozhu Chen, Xirong Li. [**Towards Making a Trojan-horse Attack on Text-to-Image Retrieval**](https://github.com/fly-dragon211/tth). ICASSP 2023 <img src="https://img.shields.io/github/stars/fly-dragon211/tth.svg?colorA=orange&colorB=orange&logo=github" alt="GitHub stars">
