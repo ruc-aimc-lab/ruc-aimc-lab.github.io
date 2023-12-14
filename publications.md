@@ -27,6 +27,7 @@ subtitle: Journals, conferences and technical reports.
 
 
 ## Conferences 
+* Aozhu Chen, Fangming Zhou, Ziyuan Wang, Xirong Li. **CLIPRerank: An Extremely Simple Method for Improving Ad-hoc Video Search**. ICASSP 2024   
 * Qijie Wei, Jingyuan Yang, Bo Wang, Jinrui Wang, Jianchun Zhao, Xinyu Zhao, Sheng Yang, Niranchana Manivannan, Youxin Chen, Dayong Ding, Jing Zhou, Xirong Li. **Supervised Domain Adaptation for Recognizing Retinal Diseases from Wide-Field Fundus Images**. BIBM 2023
 * Aozhu Chen, Ziyuan Wang, Chengbo Dong, Kaibin Tian, Ruixiang Zhao, Xun Liang, Zhanhui Kang, Xirong Li. [**ChinaOpen: A Dataset for Open-world Multimodal Learning**](https://ruc-aimc-lab.github.io/ChinaOpen/). ACMMM 2023
 * You Zhou, Gang Yang, Yang Zhou, Dayong Ding, Jianchun Zhao. Representation, Alignment, Fusion: A Generic Transformer-Based Framework for Multi-modal Glaucoma Recognition. MICCAI 2023
