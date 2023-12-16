@@ -73,6 +73,7 @@ subtitle: Journals, conferences and technical reports.
 * Jinlu Liu, Xirong Li, Gang Yang. [**Cross-class Sample Synthesis for Zero-shot Learning**](https://dblp.org/rec/conf/bmvc/LiuLY18.html). BMVC 2018
 
 ## Technical reports   
+* Xirong Li, Fan Hu, Ruixiang Zhao, Ziyuan Wang, Jingyu Liu, Jiazhen Liu, Bangxiang Lan, Wenguan Kou, Yuhan Fu, Zhanhui Kang. [**Renmin University of China and Tencent at TRECVID 2023: Harnessing Pre-trained Models for Ad-hoc Video Search**](https://www-nlpir.nist.gov/projects/tvpubs/tv23.papers/rucmm.pdf), TRECVID 2023 Workshop, 2023
 * Xirong Li, Aozhu Chen, Ziyue Wang, Fan Hu, Kaibin Tian, Xinru Chen, Chengbo Dong. [**Renmin University of China at TRECVID 2022: Improving Video Search by Feature Fusion and Negation Understanding**](https://www-nlpir.nist.gov/projects/tvpubs/tv22.papers/rucmm.pdf). TRECVID 2022 Workshop, 2022
 * Xirong Li, Aozhu Chen, Fan Hu, Xinru Chen, Chengbo Dong, Gang Yang.  [**Renmin University of China at TRECVID 2021: Searching and Describing Video**](https://www-nlpir.nist.gov/projects/tvpubs/tv21.papers/rucmm.pdf). TRECVID 2021 Workshop, 2021 
 * Xirong Li, Fangming Zhou, Aozhu Chen.  [**Renmin University of China at TRECVID 2020: Sentence Encoder Assembly for Ad-hoc Video Search**](https://www-nlpir.nist.gov/projects/tvpubs/tv20.papers/rucmm.pdf). TRECVID 2020 Workshop, 2020
