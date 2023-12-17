@@ -5,6 +5,7 @@ subtitle: Journals, conferences and technical reports.
 ---
 
 ## Journals
+* Bing Li, Huan Chen, Weihong Yu, Ming Zhang, Fang Lu, Jingxue Ma, Yuhua Hao, Xiaorong Li, Bojie Hu, Lijun Shen, Jianbo Mao, Xixi He, Hao Wang, Dayong Ding, Xirong Li, Youxin Chen. **The performance of a deep learning system in assisting junior ophthalmologists in diagnosing 13 major fundus diseases: A prospective multi-center clinical trial**. npj Digital Medicine, 2024
 * Chengbo Dong, Xinru Chen, Ruohan Hu, Juan Cao, Xirong Li.  [**MVSS-Net: Image Manipulation Detection by Multi-View Multi-Scale Supervision**](https://arxiv.org/pdf/2112.08935.pdf). IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022 <img src="https://img.shields.io/github/stars/dong03/MVSS-Net.svg?colorA=orange&colorB=orange&logo=github" alt="Github stars">
 * Rui Qian, Xin Lai, Xirong Li.  [**3D Object Detection for Autonomous Driving: A Survey**](https://github.com/rui-qian/SoTA-3D-Object-Detection). Pattern Recognition (PR), 2022 <img src="https://img.shields.io/github/stars/rui-qian/SoTA-3D-Object-Detection.svg?colorA=orange&colorB=orange&logo=github" alt="GitHub stars">
 * Weisen Wang, Xirong Li, Zhiyan Xu, Weihong Yu, Jianchun Zhao, Dayong Ding, Youxin Chen.  [**Learning Two-Stream CNN for Multi-Modal Age-related Macular Degeneration Categorization**](https://arxiv.org/abs/2012.01879). IEEE Journal of Biomedical and Health Informatics (J-BHI), 2022 <img src="https://img.shields.io/github/stars/li-xirong/mmc-amd.svg?colorA=orange&colorB=orange&logo=github" alt="GitHub stars">
