@@ -15,7 +15,7 @@ subtitle:
 + [陈坳珠](https://jewelchen2019.github.io/) (2019)
 + [胡帆](https://github.com/fly-dragon211) (2020)
 + 林海斓 (2021)
-+ 赵瑞祥 (2022)
++ [赵瑞祥](https://ruixiangzhao.github.io/) (2022)
 + [魏奇杰](https://www.researchgate.net/profile/Qijie-Wei) (2022)
 + 刘靖宇 (2023)
 + 兰邦翔 (2023)
