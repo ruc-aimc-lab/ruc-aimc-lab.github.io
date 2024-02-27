@@ -28,6 +28,7 @@ subtitle: Journals, conferences and technical reports.
 
 
 ## Conferences 
+* Kaibin Tian, Ruixiang Zhao, Zijie Xin, Bangxiang Lan, Xirong Li. **Holistic Features are almost Sufficient for Text-to-Video Retrieval**. CVPR 2024  
 * Fan Hu, Yanlin Wang, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Xirong Li.  **Tackling Long Code Search with Splitting, Encoding, and Aggregating**. LREC-COLING 2024
 * Aozhu Chen, Fangming Zhou, Ziyuan Wang, Xirong Li. **CLIPRerank: An Extremely Simple Method for Improving Ad-hoc Video Search**. ICASSP 2024   
 * Qijie Wei, Jingyuan Yang, Bo Wang, Jinrui Wang, Jianchun Zhao, Xinyu Zhao, Sheng Yang, Niranchana Manivannan, Youxin Chen, Dayong Ding, Jing Zhou, Xirong Li. **Supervised Domain Adaptation for Recognizing Retinal Diseases from Wide-Field Fundus Images**. BIBM 2023
