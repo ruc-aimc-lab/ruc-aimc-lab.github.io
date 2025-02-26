@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Paper accepted at CVPR2025
-subtitle: Text-to-Video Retrieval
+subtitle: Multimodal LLM
 thumbnail-img: /assets/img/cvpr_2025_logo.jpeg
 tags: [research, MLLM, visual hallucination, benchmark]
 ---
