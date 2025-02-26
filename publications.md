@@ -28,7 +28,7 @@ subtitle: Journals, conferences and technical reports.
 
 
 ## Conferences 
-* Jiazhen Liu, Yuhan Fu, Ruobing Xie, RunquanXie, Xingwu Sun, Fengzong Lian, Zhanhui Kang, Xirong Li. [**PhD: A ChatGPT-Prompted Visual hallucination Evaluation Dataset**](https://arxiv.org/abs/2403.11116). CVPR 2025
+* Jiazhen Liu, Yuhan Fu, Ruobing Xie, Runquan Xie, Xingwu Sun, Fengzong Lian, Zhanhui Kang, Xirong Li. [**PhD: A ChatGPT-Prompted Visual hallucination Evaluation Dataset**](https://arxiv.org/abs/2403.11116). CVPR 2025
 * Qijie Wei, Weihong Yu, Xirong Li. **Convolutional Prompting for Broad-Domain Retinal Vessel Segmentation**. ICASSP 2025
 * Jingyu Liu, Minquan Wang, Ye Ma, Bo Wang, Aozhu Chen, Quan Chen, Peng Jiang, Xirong Li. [**D&M: Enriching E-commerce Videos with Sound Effects by Key Moment Detection and SFX Matching**](https://rucmm.github.io/VDSFX/). AAAI 2025 
 * Kaibin Tian, Ruixiang Zhao, Zijie Xin, Bangxiang Lan, Xirong Li. [**Holistic Features are almost Sufficient for Text-to-Video Retrieval**](https://openaccess.thecvf.com/content/CVPR2024/papers/Tian_Holistic_Features_are_almost_Sufficient_for_Text-to-Video_Retrieval_CVPR_2024_paper.pdf). CVPR 2024 <img src="https://img.shields.io/github/stars/ruc-aimc-lab/TeachCLIP.svg?colorA=orange&colorB=orange&logo=github" alt="Github stars">  
