@@ -8,17 +8,17 @@ subtitle:
 
 + [李锡荣](http://lixirong.net/) 教授、博导
 + [杨刚](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/fjs2/538a9f67dfd74d659c3b2370f8fbaf06.htm) 副教授、硕导
-+ [许洁萍](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/fjs2/f0bdfde31a3e40659b97a7e6f886d23a.htm) 副教授、硕导
++ [许洁萍](http://info.ruc.edu.cn/jsky/rtjs/321ec0b1d90d467a9a54c10f51f05c97.htm) 副教授、硕导（退休）
 
 ## PhD students 
 
 + [胡帆](https://github.com/fly-dragon211) (2020)
 + 林海斓 (2021)
 + [赵瑞祥](https://ruixiangzhao.github.io/) (2022)
-+ [魏奇杰](https://www.researchgate.net/profile/Qijie-Wei) (2022)
-+ 刘靖宇 (2023)
++ [魏奇杰](https://weiqijie.github.io/) (2022)
++ [刘靖宇](https://scholar.google.com.hk/citations?user=u7Dqok8AAAAJ&hl=en) (2023)
 + 兰邦翔 (2023)
-+ 钟娟 (2023)
++ 钟娟 (2023, 工程博士)
 + [辛梓杰](https://xxayt.github.io/) (2024)
 + 李宏洋 (2024) 
 
@@ -45,7 +45,7 @@ subtitle:
 
 | 姓名        |  学位 | 毕业年份   | 毕业去向  |
 |:------------- |:------------- |:------------- |:----- |
-| [陈坳珠](https://jewelchen2019.github.io/)  | 博士 | 2024 | |
+| [陈坳珠](https://jewelchen2019.github.io/)  | 博士 | 2024 | 华为 |
 | [刘家真](https://jiazhen-code.github.io/about.me/) | 硕士 | 2024 | HKUST |
 | 王子玥 | 硕士 | 2024 | 上海**单位 |
 | 胡若涵 | 硕士 | 2024 | 光大银行 |
