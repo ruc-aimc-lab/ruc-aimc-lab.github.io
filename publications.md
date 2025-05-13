@@ -28,6 +28,8 @@ subtitle: Journals, conferences and technical reports.
 
 
 ## Conferences 
+* Qijie Wei, Kaiheng Qian, Xirong Li. [**FunBench: Benchmarking Fundus Reading Skills of MLLMs**](https://arxiv.org/abs/2503.00901). MICCAI 2025
+
 * Jiazhen Liu, Yuhan Fu, Ruobing Xie, Runquan Xie, Xingwu Sun, Fengzong Lian, Zhanhui Kang, Xirong Li. [**PhD: A ChatGPT-Prompted Visual hallucination Evaluation Dataset**](https://arxiv.org/abs/2403.11116). CVPR 2025
 * Qijie Wei, Weihong Yu, Xirong Li. [**Convolutional Prompting for Broad-Domain Retinal Vessel Segmentation**](https://doi.org/10.1109/ICASSP49660.2025.10888001). ICASSP 2025
 * Jingyu Liu, Minquan Wang, Ye Ma, Bo Wang, Aozhu Chen, Quan Chen, Peng Jiang, Xirong Li. [**D&M: Enriching E-commerce Videos with Sound Effects by Key Moment Detection and SFX Matching**](https://rucmm.github.io/VDSFX/). AAAI 2025 
