@@ -28,6 +28,7 @@ subtitle: Journals, conferences and technical reports.
 
 
 ## Conferences 
+* Yuhan Fu, Ruobing Xie, Xingwu Sun, Zhanhui Kang, Xirong Li. [**Mitigating Hallucination in Multimodal Large Language Model via Hallucination-targeted Direct Preference Optimization**](https://arxiv.org/abs/2411.10436). Findings of ACL 2025
 * Qijie Wei, Kaiheng Qian, Xirong Li. [**FunBench: Benchmarking Fundus Reading Skills of MLLMs**](https://arxiv.org/abs/2503.00901). MICCAI 2025
 * Jiazhen Liu, Yuhan Fu, Ruobing Xie, Runquan Xie, Xingwu Sun, Fengzong Lian, Zhanhui Kang, Xirong Li. [**PhD: A ChatGPT-Prompted Visual hallucination Evaluation Dataset**](https://arxiv.org/abs/2403.11116). CVPR 2025
 * Qijie Wei, Weihong Yu, Xirong Li. [**Convolutional Prompting for Broad-Domain Retinal Vessel Segmentation**](https://doi.org/10.1109/ICASSP49660.2025.10888001). ICASSP 2025
