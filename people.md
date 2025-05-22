@@ -12,7 +12,6 @@ subtitle:
 
 ## PhD students 
 
-+ [胡帆](https://github.com/fly-dragon211) (2020)
 + 林海斓 (2021)
 + [赵瑞祥](https://ruixiangzhao.github.io/) (2022)
 + [魏奇杰](https://weiqijie.github.io/) (2022)
@@ -45,6 +44,7 @@ subtitle:
 
 | 姓名        |  学位 | 毕业年份   | 毕业去向  |
 |:------------- |:------------- |:------------- |:----- |
+| 胡帆 | 博士 | 2025 | 腾讯 |
 | [陈坳珠](https://jewelchen2019.github.io/)  | 博士 | 2024 | 华为 |
 | [刘家真](https://jiazhen-code.github.io/about.me/) | 硕士 | 2024 | HKUST |
 | 王子玥 | 硕士 | 2024 | 上海**单位 |
