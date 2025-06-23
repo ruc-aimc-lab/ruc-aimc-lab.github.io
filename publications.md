@@ -5,6 +5,7 @@ subtitle: Journals, conferences and technical reports.
 ---
 
 ## Journals
+* Ruixiang Zhao, Jian Jia, Yan Li, Xuehan Bai, Quan Chen, Han Li, Peng Jiang, Xirong Li. [**ASR-enhanced Multimodal Representation Learning for Cross-Domain Product Retrieval**](https://rucmm.github.io/mmrl4cdpr/). IEEE Transactions on Multimedia (TMM), 2025
 * Bing Li, Huan Chen, Weihong Yu, Ming Zhang, Fang Lu, Jingxue Ma, Yuhua Hao, Xiaorong Li, Bojie Hu, Lijun Shen, Jianbo Mao, Xixi He, Hao Wang, Dayong Ding, Xirong Li, Youxin Chen. [**The performance of a deep learning system in assisting junior ophthalmologists in diagnosing 13 major fundus diseases: A prospective multi-center clinical trial**](https://www.nature.com/articles/s41746-023-00991-9). npj Digital Medicine, 2024
 * Chengbo Dong, Xinru Chen, Ruohan Hu, Juan Cao, Xirong Li.  [**MVSS-Net: Image Manipulation Detection by Multi-View Multi-Scale Supervision**](https://arxiv.org/pdf/2112.08935.pdf). IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022 <img src="https://img.shields.io/github/stars/dong03/MVSS-Net.svg?colorA=orange&colorB=orange&logo=github" alt="Github stars">
 * Rui Qian, Xin Lai, Xirong Li.  [**3D Object Detection for Autonomous Driving: A Survey**](https://github.com/rui-qian/SoTA-3D-Object-Detection). Pattern Recognition (PR), 2022 <img src="https://img.shields.io/github/stars/rui-qian/SoTA-3D-Object-Detection.svg?colorA=orange&colorB=orange&logo=github" alt="GitHub stars">
