@@ -2,7 +2,7 @@
 layout: post
 title: Three papers accepted at ICCV2025
 subtitle: computer vision
-thumbnail-img: /assets/img/ICCV2025-logo.png
+thumbnail-img: /assets/img/ICCV2025-logo.jpeg
 tags: [research, sketch animation, video retrieval, music grounding]
 ---
 
