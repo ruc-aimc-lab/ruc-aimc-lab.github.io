@@ -10,5 +10,5 @@ We have three papers accepted at [ICCV2025](https://iccv.thecvf.com/Conferences/
 
 
 1. Liu *et al*., Multi-Object Sketch Animation by Scene Decomposition and Motion Planning, ICCV 2025
-2. Lan *et al*., Pseudo-Interaction: a Hybrid-Tower Paradigm for Text-to-Video Retrieval, ICCV 2025
+2. Lan *et al*., Hybrid-Tower: Fine-grained Pseudo-query Interaction and Generation for Text-to-Video Retrieval, ICCV 2025
 3. Xin *et al*., Music Grounding by Short Video. ICCV 2025
