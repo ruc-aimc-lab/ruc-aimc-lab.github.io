@@ -29,6 +29,7 @@ subtitle: Journals, conferences and technical reports.
 
 
 ## Conferences 
+* Fan Hu, Zijie Xin, Xirong Li. **Learning Partially-Decorrelated Common Spaces for Ad-hoc Video Search**. ACMMM 2025
 * Zijie Xin, Minquan Wang, Jingyu Liu, Quan Chen, Ye Ma, Peng Jiang, Xirong Li. [**Music Grounding by Short Video**](https://arxiv.org/abs/2408.16990). ICCV 2025
 * Bangxiang Lan, Ruobing Xie, Ruixiang Zhao, Xingwu Sun, Zhanhui Kang, Gang Yang, Xirong Li. Hybrid-Tower: Fine-grained Pseudo-query Interaction and Generation for Text-to-Video Retrieval. ICCV 2025
 * Jingyu Liu, Zijie Xin, Yuhan Fu, Ruixiang Zhao, Bangxiang Lan, Xirong Li. [**Multi-Object Sketch Animation by Scene Decomposition and Motion Planning**](https://arxiv.org/abs/2503.19351). ICCV 2025
