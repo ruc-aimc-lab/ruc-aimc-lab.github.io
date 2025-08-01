@@ -4,13 +4,13 @@ title: Lab members
 subtitle: 
 ---
 
-## Staff 
+## 教工 Staff 
 
 + [李锡荣](http://lixirong.net/) 教授、博导
 + [杨刚](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/fjs2/538a9f67dfd74d659c3b2370f8fbaf06.htm) 副教授、硕导
 + [许洁萍](http://info.ruc.edu.cn/jsky/rtjs/321ec0b1d90d467a9a54c10f51f05c97.htm) 副教授、硕导（退休）
 
-## PhD students 
+## 在读博士生 PhD students 
 
 + 林海斓 (2021)
 + [赵瑞祥](https://ruixiangzhao.github.io/) (2022)
@@ -19,9 +19,11 @@ subtitle:
 + 兰邦翔 (2023)
 + 钟娟 (2023, 工程博士)
 + [辛梓杰](https://xxayt.github.io/) (2024)
-+ 李宏洋 (2024) 
++ 李宏洋 (2024)
++ 刘凡平 (2024, 工程博士)
+  
 
-## Master students 
+## 在读硕士生 Master students 
 
 + 傅毓晗 (2023)
 + 许怿芃 (2023)
@@ -34,7 +36,7 @@ subtitle:
 + 王毅卓（2024）
 
 
-## Alumni
+## 毕业生 Alumni
 
 | 姓名        |  学位 | 毕业年份   | 毕业去向  |
 |:------------- |:------------- |:------------- |:----- |
@@ -85,5 +87,11 @@ subtitle:
 | 霍雨佳      | 硕士 | 2017 | 中行 |
 | 郑鹤      | 硕士 | 2017 | 爱奇艺 |
 | [何希僖](https://csci.ncut.edu.cn/szdw/szlls/rgznx.htm)      | 硕士 | 2017 | 北方工业大学 |
+| [廖帅](https://leoshine.github.io/) | 硕士 | 2015 | 亚马逊（美国） |
 
 
+## 访问学者 Visiting Scholars
+
+| 姓名  |  访问时间   | 访问岗位  | 现单位 |
+|:------------- |:------------- |:------------- |:----- |
+| 董建锋 | 2015-2016 | 博士生 | 浙江工商大学 |
