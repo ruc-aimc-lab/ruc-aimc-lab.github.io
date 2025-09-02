@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper accepted at TKDE
+title: Paper accepted by TKDE
 subtitle: Deep Learning based Recommendation
 thumbnail-img: /assets/img/tkde-cover.jpg
 tags: [research, feature selection, deep recommender systems]
