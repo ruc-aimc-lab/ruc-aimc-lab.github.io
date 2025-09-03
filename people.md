@@ -21,7 +21,7 @@ subtitle:
 + [辛梓杰](https://xxayt.github.io/) (2024)
 + 李宏洋 (2024)
 + 刘凡平 (2024, 工程博士)
-+ 邓钰川（2025）
++ [邓钰川](https://kimokcheon.github.io/)（2025）
 + 沈庆玮（2025）
   
 
