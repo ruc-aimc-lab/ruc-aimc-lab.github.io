@@ -39,7 +39,7 @@ subtitle:
 + 孙正君（2025）
 + 刘境鸿（2025）
 + 甘秋燕（2025）
-+ 钱凯恒（2025）
++ [钱凯恒](https://kaihengqian.github.io/)（2025）
 
 
 ## 毕业生 Alumni
