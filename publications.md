@@ -5,7 +5,8 @@ subtitle: Journals, conferences and technical reports.
 ---
 
 ## Journals
-* Fan Hu, Gaofeng Lu, Jun Chen, Chaonan Guo, Yuekui Yang, Xirong Li. [AEFS: Adaptive Early Feature Selection for Deep Recommender Systems](https://arxiv.org/abs/2509.12076). IEEE Transactions on Knowledge and Data Engineering (TKDE), 2025
+*  Xianke Chen, Daizong Liu, Xun Yang, Xirong Li, Jianfeng Dong, Meng Wang, Xun Wang. **PRVR: Partially Relevant Video Retrieval**. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025
+*  Fan Hu, Gaofeng Lu, Jun Chen, Chaonan Guo, Yuekui Yang, Xirong Li. [**AEFS: Adaptive Early Feature Selection for Deep Recommender Systems**](https://arxiv.org/abs/2509.12076). IEEE Transactions on Knowledge and Data Engineering (TKDE), 2025
 * Ruixiang Zhao, Jian Jia, Yan Li, Xuehan Bai, Quan Chen, Han Li, Peng Jiang, Xirong Li. [**ASR-enhanced Multimodal Representation Learning for Cross-Domain Product Retrieval**](https://rucmm.github.io/mmrl4cdpr/). IEEE Transactions on Multimedia (TMM), 2025
 * Xufeng Zhao, Chunshi Li, Jingyuan Yang, Xingwang Gu, Bing Li, Yuelin Wang, Bi-lei Zhang, Xirong Li, Jianchun Zhao, Jie Wang, Weihong Yu. [**Diagnostic report generation for macular diseases by natural language processing algorithms**](https://bjo.bmj.com/content/early/2025/05/10/bjo-2024-326064.full), British Journal of Ophthalmology (BJO), 2025 
 * Bing Li, Huan Chen, Weihong Yu, Ming Zhang, Fang Lu, Jingxue Ma, Yuhua Hao, Xiaorong Li, Bojie Hu, Lijun Shen, Jianbo Mao, Xixi He, Hao Wang, Dayong Ding, Xirong Li, Youxin Chen. [**The performance of a deep learning system in assisting junior ophthalmologists in diagnosing 13 major fundus diseases: A prospective multi-center clinical trial**](https://www.nature.com/articles/s41746-023-00991-9). npj Digital Medicine, 2024
