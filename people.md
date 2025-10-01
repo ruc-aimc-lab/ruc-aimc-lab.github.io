@@ -6,7 +6,7 @@ subtitle:
 
 ## 教工 Staff 
 
-+ [李锡荣](http://lixirong.net/) 教授、博导
++ [李锡荣](https://li-xirong.github.io/) 教授、博导
 + [杨刚](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/fjs2/538a9f67dfd74d659c3b2370f8fbaf06.htm) 副教授、硕导
 + [许洁萍](http://info.ruc.edu.cn/jsky/rtjs/321ec0b1d90d467a9a54c10f51f05c97.htm) 副教授、硕导（退休）
 
