@@ -34,6 +34,8 @@ subtitle: Journals, conferences and technical reports.
 
 
 ## Conferences 
+* Hongyang Li, Junyi Tao, Qijie Wei, Ningzhi Yang, Meng Wang, Weihong Yu, Xirong Li. **Cross-modal Fundus Image Registration under Large FoV Disparity**. MMM 2026
+* Hailan Lin, Qijie Wei, Kaibin Tian, Ruixiang Zhao, Xirong Li. **Co-Teaching for Unsupervised Domain Expansion**. MMM 2026
 * Fan Hu, Zijie Xin, Xirong Li. [**Learning Partially-Decorrelated Common Spaces for Ad-hoc Video Search**](https://arxiv.org/abs/2508.02340). ACMMM 2025 <img src="https://img.shields.io/github/stars/xxayt/LPD.svg?colorA=orange&colorB=orange&logo=github" alt="GitHub stars">
 * Zijie Xin, Minquan Wang, Jingyu Liu, Quan Chen, Ye Ma, Peng Jiang, Xirong Li. [**Music Grounding by Short Video**](https://arxiv.org/abs/2408.16990). ICCV 2025 <img src="https://img.shields.io/github/stars/xxayt/MGSV.svg?colorA=orange&colorB=orange&logo=github" alt="GitHub stars">
 * Bangxiang Lan, Ruobing Xie, Ruixiang Zhao, Xingwu Sun, Zhanhui Kang, Gang Yang, Xirong Li. Hybrid-Tower: Fine-grained Pseudo-query Interaction and Generation for Text-to-Video Retrieval. ICCV 2025
