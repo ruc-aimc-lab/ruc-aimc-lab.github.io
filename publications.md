@@ -5,9 +5,9 @@ subtitle: Journals, conferences and technical reports.
 ---
 
 ## Journals
-*  Xianke Chen, Daizong Liu, Xun Yang, Xirong Li, Jianfeng Dong, Meng Wang, Xun Wang. **PRVR: Partially Relevant Video Retrieval**. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025
+* Ruixiang Zhao, Jian Jia, Yan Li, Xuehan Bai, Quan Chen, Han Li, Peng Jiang, Xirong Li. [**ASR-enhanced Multimodal Representation Learning for Cross-Domain Product Retrieval**](https://ieeexplore.ieee.org/document/11329487/). IEEE Transactions on Multimedia (TMM), 2026
+*  Xianke Chen, Daizong Liu, Xun Yang, Xirong Li, Jianfeng Dong, Meng Wang, Xun Wang. **PRVR: Partially Relevant Video Retrieval**. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026
 *  Fan Hu, Gaofeng Lu, Jun Chen, Chaonan Guo, Yuekui Yang, Xirong Li. [**AEFS: Adaptive Early Feature Selection for Deep Recommender Systems**](https://arxiv.org/abs/2509.12076). IEEE Transactions on Knowledge and Data Engineering (TKDE), 2025
-* Ruixiang Zhao, Jian Jia, Yan Li, Xuehan Bai, Quan Chen, Han Li, Peng Jiang, Xirong Li. [**ASR-enhanced Multimodal Representation Learning for Cross-Domain Product Retrieval**](https://rucmm.github.io/mmrl4cdpr/). IEEE Transactions on Multimedia (TMM), 2025
 * Xufeng Zhao, Chunshi Li, Jingyuan Yang, Xingwang Gu, Bing Li, Yuelin Wang, Bi-lei Zhang, Xirong Li, Jianchun Zhao, Jie Wang, Weihong Yu. [**Diagnostic report generation for macular diseases by natural language processing algorithms**](https://bjo.bmj.com/content/early/2025/05/10/bjo-2024-326064.full), British Journal of Ophthalmology (BJO), 2025 
 * Bing Li, Huan Chen, Weihong Yu, Ming Zhang, Fang Lu, Jingxue Ma, Yuhua Hao, Xiaorong Li, Bojie Hu, Lijun Shen, Jianbo Mao, Xixi He, Hao Wang, Dayong Ding, Xirong Li, Youxin Chen. [**The performance of a deep learning system in assisting junior ophthalmologists in diagnosing 13 major fundus diseases: A prospective multi-center clinical trial**](https://www.nature.com/articles/s41746-023-00991-9). npj Digital Medicine, 2024
 * Chengbo Dong, Xinru Chen, Ruohan Hu, Juan Cao, Xirong Li.  [**MVSS-Net: Image Manipulation Detection by Multi-View Multi-Scale Supervision**](https://arxiv.org/pdf/2112.08935.pdf). IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022 <img src="https://img.shields.io/github/stars/dong03/MVSS-Net.svg?colorA=orange&colorB=orange&logo=github" alt="Github stars">
@@ -34,6 +34,8 @@ subtitle: Journals, conferences and technical reports.
 
 
 ## Conferences 
+* Qijie Wei, Hailan Lin, Xirong Li. **EI: Early Intervention for Multimodal Imaging based Disease Recognition**. CVPR (Findings) 2026
+* Ruixiang Zhao, Zhihao Xu, Bangxiang Lan, Zijie Xin, Jingyu Liu, Xirong Li. **SAVE: Speech-Aware Video Representation Learning for Video-Text Retrieval**. CVPR 2026
 * Hongyang Li, Junyi Tao, Qijie Wei, Ningzhi Yang, Meng Wang, Weihong Yu, Xirong Li. **Cross-modal Fundus Image Registration under Large FoV Disparity**. MMM 2026
 * Hailan Lin, Qijie Wei, Kaibin Tian, Ruixiang Zhao, Xirong Li. **Co-Teaching for Unsupervised Domain Expansion**. MMM 2026
 * Fan Hu, Zijie Xin, Xirong Li. [**Learning Partially-Decorrelated Common Spaces for Ad-hoc Video Search**](https://arxiv.org/abs/2508.02340). ACMMM 2025 <img src="https://img.shields.io/github/stars/xxayt/LPD.svg?colorA=orange&colorB=orange&logo=github" alt="GitHub stars">
