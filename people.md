@@ -23,6 +23,8 @@ subtitle:
 + 刘凡平 (2024, 工程博士)
 + [邓钰川](https://kimokcheon.github.io/)（2025）
 + 沈庆玮（2025）
++ 李雄文（2025，工程博士）
++ 黄朦 (2025, 工程博士)
   
 
 ## 在读硕士生 Master students 
